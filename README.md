@@ -11,7 +11,7 @@ As tecnologias e recursos utilizados no projeto TemplateWebsocketSSL estão list
 * Apache Maven 3 (como gerenciador de build)
 * Biblioteca TooTallNate/Java-WebSocket
 
-## Gerando um certificado auto-assinado
+## Certificado auto-assinado
 Para gerar um certificado auto-assinado para o Apache Tomcat, deve-se utilizar a ferramenta 'keytool' presente no pacote JDK.
 
 ```
@@ -24,6 +24,12 @@ $ JAVA_HOME/bin/keytool \
     -storepass <senha> \
     -dname "cn=<nome-empresa>, ou=<nome-departamento>, o=<nome-empresa>, L=<nome-cidade>, ST=<sigla-estado>, c=<sigla-pais>"
 ```
+
+## Documentação
+
+### Diagrama de classes
+
+![](docs/diagrama-classes.png) 
 
 ## Release History
 
