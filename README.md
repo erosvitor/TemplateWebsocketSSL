@@ -32,5 +32,5 @@ $ JAVA_HOME/bin/keytool \
 
 ## Release History
 
-* 1.0.0
+* 1.0.0 (2020-12-06)
     * Primeira versão
