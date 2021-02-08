@@ -4,11 +4,13 @@
 O TemplateWebsocketSSL é um projeto Java que demonstra como implementar um servidor websocket SSL com certificado auto-assinado.
 
 ## Tecnologias
-As tecnologias e recursos utilizados no projeto TemplateWebsocketSSL estão listados abaixo.
+O projeto TemplateWebsocketSSL utiliza o seguinte:
 
 * Java 11 (como linguagem de desenvolvimento)
 * Apache Maven 3 (como gerenciador de build)
 * Biblioteca TooTallNate/Java-WebSocket
+* SLF4J (para logging)
+* Eclipse 2020 (como ambiente integrado de desenvolvimento)
 
 ## Certificado auto-assinado
 Para gerar um certificado auto-assinado para o servidor Websocket SSL, deve-se utilizar a ferramenta 'keytool' presente no pacote JDK.
