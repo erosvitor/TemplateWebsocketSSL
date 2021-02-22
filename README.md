@@ -32,7 +32,10 @@ $ JAVA_HOME/bin/keytool \
 
 ![](docs/diagrama-classes.png) 
 
-## Release History
+## Status do projeto
+O projeto esta finalizado sem nenhuma pendência.
+
+## Histórico de lançamentos
 
 * 1.0.0 (2020-12-06)
     * Primeira versão
